@@ -1,3 +1,3 @@
 # Crossword
 
-A health policy-themed crossword puzzle initially published here for May 2, 2020, by Peter Lyu during the coronavirus pandemic. Enjoy!
+A health policy-themed crossword puzzle initially published here on May 2, 2020. Created during the coronavirus pandemic after many loaves of sourdough bread. Enjoy!
